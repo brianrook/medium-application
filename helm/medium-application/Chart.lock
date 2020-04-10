@@ -1,0 +1,12 @@
+dependencies:
+- name: medium-customer
+  repository: cm://h.cfcr.io/docketdynamics/default
+  version: "11"
+- name: medium-customer-manager
+  repository: cm://h.cfcr.io/docketdynamics/default
+  version: "6"
+- name: medium-ingress
+  repository: cm://h.cfcr.io/docketdynamics/default
+  version: "1"
+digest: sha256:20b0d88fd0b7a6dc10ff682e705ece910d68b97fd8d8e3b43c5e19f8d31f42f1
+generated: "2020-04-10T17:55:48.9619595-06:00"
